@@ -1,6 +1,6 @@
-# Welcome to your CDK TypeScript project!
+# Blog Post Example
 
-This is a blank project for TypeScript development with CDK.
+This was generated via the AWS CDK.  It's a super simple repo for demo purposes and was used in a blog post on https://dev.to/martzcodes
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
