@@ -1,6 +1,6 @@
 # Blog Post Example
 
-This was generated via the AWS CDK.  It's a super simple repo for demo purposes and was used in a blog post on https://dev.to/martzcodes
+This was generated via the AWS CDK.  It's a super simple repo for demo purposes and was used in a blog post: https://dev.to/martzcodes/token-authorizers-with-apigatewayv2-tricks-apigwv1-doesn-t-want-you-to-know-41jn
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
